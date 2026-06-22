@@ -236,8 +236,8 @@ reporting_status:
     - value: divided
       label: status.divided_below
       hide_on_goal_pages: true   
-repository_url_data: 'https://github.com/statisticamd/sdg-data-moldova'
-repository_url_site: 'https://github.com/statisticamd/sdg-site-moldova'
+repository_url_data: 'https://github.com/statisticamd/archive-sdg-data-moldova-2024'
+repository_url_site: 'https://github.com/statisticamd/archive-sdg-site-moldova-2024'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
